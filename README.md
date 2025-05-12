@@ -1,49 +1,43 @@
-**About Me**
+## About Me
 
-Welcome to my personal repo! Below are some notable projects with video demos where applicable. 
+Welcome to my personal repository! I'm a developer with a strong foundation in **full-stack development**, **AI/ML integration**, and **cloud infrastructure and deployment**. My work spans building scalable backend systems, designing intuitive frontends, and deploying machine learning models to production.
 
-I have experience **developing full stack applications, training and integrating AI/ML models into backend systems, cloud infrastructure and deployment.**
+**Technical Skills:**
 
-Languages: 
-
-* Python, Java, C
-* HTML, CSS, JavaScript
-* SQL
-
-Frameworks:
-
-* FastAPI, Flask, Django
-* React, Vue
-* Tailwind, Bootstrap
-* AWS, Docker, RabbitMQ (MQTT)
-
-## Notable Projects
-
-###  Team-DreamCiti-CitiBank-HackOverflow-2023
-
-[Video](https://www.youtube.com/watch?v=WRhl_9s5IYs&ab_channel=peek00) | [Repo](https://github.com/peek00/Team-DreamCiti-CitiBank-HackOverflow-2023)
-* Won **First in category** for CitiBank HackOverflow 2023 Hackathon
-* Local "Google" search allowing user to upload and remove documents from database
-* Integrated vector database with LLM embeddings, relational and object database
-
-
-### SharkEdu 
-
-[Video](https://www.youtube.com/watch?v=bJSEWG34V38&ab_channel=peek00) |  [Repo](https://github.com/peek00/sharkedu)
-
-* Built during TartanHack25 Hackathon
-* Convert PDF into flashcards using OpenAI APIs, linking generated flashcards to slides
-* Intuitive user experience to edit generated flashcards
-  
-### ML Churn Webapp (Deployed)
-
-[Repo](https://github.com/peek00/ml-churn-webapp)
-
-* Built during [HeiCoder's AI300: Deploying Machine Learning Systems to the Cloud](https://heicodersacademy.com/ai300-deploying-machine-learning-systems-to-the-cloud-course/)
-* Performed EDA and used PCA to train an XGBoost model
-* Converted Juypter notebook into Python scripts following OOP principles using **Abstract Base Classes**, allowing for model swapping
-* Pickled model weights, wrote Python Flask server, Docker-ized and deployed on EC2
+- **Languages:** Python, Java, C, JavaScript, HTML/CSS, SQL  
+- **Frameworks & Tools:** FastAPI, Flask, Django, React, Vue, Tailwind, Bootstrap  
+- **Cloud & DevOps:** AWS, Docker, RabbitMQ (MQTT)
 
 ---
 
-Thank you for taking the time to check out my work! I look forward to [connecting](https://www.linkedin.com/in/lim-xun-yi/) with you!
+## Notable Projects
+
+### 🏆 Team DreamCiti — CitiBank HackOverflow 2023  
+[Video Demo](https://www.youtube.com/watch?v=WRhl_9s5IYs&ab_channel=peek00) • [GitHub Repo](https://github.com/peek00/Team-DreamCiti-CitiBank-HackOverflow-2023)
+
+- 🥇 **First Place (Category Winner)** at CitiBank HackOverflow 2023  
+- Developed a local "Google-style" search platform with CRUD document support  
+- Integrated LLM-based vector search with relational and object databases
+
+---
+
+### 📚 SharkEdu  
+[Video Demo](https://www.youtube.com/watch?v=bJSEWG34V38&ab_channel=peek00) • [GitHub Repo](https://github.com/peek00/sharkedu)
+
+- Built during TartanHacks25 Hackathon  
+- Transforms uploaded PDFs into editable flashcards using OpenAI APIs  
+- Links flashcards to relevant slides for seamless studying
+
+---
+
+### 🌐 ML Churn Web App (Live Deployment)  
+[GitHub Repo](https://github.com/peek00/ml-churn-webapp)
+
+- Developed as part of [HeiCoder's AI300: Deploying ML Systems to the Cloud](https://heicodersacademy.com/ai300-deploying-machine-learning-systems-to-the-cloud-course/)  
+- Trained an XGBoost model after EDA and PCA  
+- Modularized code using **Abstract Base Classes** for model flexibility  
+- Deployed via Flask, Docker, and AWS EC2
+
+---
+
+Thanks for checking out my work — feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/lim-xun-yi/)!

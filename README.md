@@ -1,6 +1,8 @@
 ## About Me
 
-Welcome to my personal repository! I'm a developer with a strong foundation in **full-stack development**, **AI/ML integration**, and **cloud infrastructure and deployment**. My work spans building scalable backend systems, designing intuitive frontends, and deploying machine learning models to production.
+Welcome to my personal repository! I'm a developer with a strong foundation in **full-stack development**, **AI/ML integration**, and **cloud infrastructure and deployment**. My work spans building scalable backend systems, designing intuitive frontends, and deploying machine learning models to production. A relic of the past, this is also my [StackOverflow account](https://stackoverflow.com/users/18650474/peek0?tab=answers) back before LLMs took over. 
+
+
 
 **Technical Skills:**
 
